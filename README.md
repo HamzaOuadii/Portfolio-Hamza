@@ -35,7 +35,7 @@ Vercel (déploiement)
 
 Cloner le projet :
 
-git clone https://github.com/HamzaOuadii/Portfolio.git
+git clone https://github.com/HamzaOuadii/Portfolio-Hamza.git
 
 
 Installer les dépendances :
@@ -79,4 +79,4 @@ src/index.css → styles globaux
 
 🔗 GitHub : https://github.com/HamzaOuadii
 
-🔗 LinkedIn : (ajoute ton lien)
+🔗 LinkedIn : https://www.linkedin.com/in/hamza-ouadii-86b060330/
