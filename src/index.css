@@ -1,0 +1,42 @@
+/* ----- DARK / LIGHT THEME SYSTEM ----- */
+
+/* DARK THEME */
+body[data-theme="dark"] {
+  --bg-color: #0a0a1a;
+  --text-color: #ffffff;
+  --primary-color: #c770f0; /* violet d’accent – tu peux changer si tu veux */
+}
+
+/* LIGHT THEME */
+body[data-theme="light"] {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --primary-color: #6a38d0; /* violet plus foncé – remplaçable aussi */
+}
+
+/* APPLY THEME */
+body {
+  margin: 0;
+  font-family: "PT Mono", monospace !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background: var(--bg-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Éléments importants du thème */
+.purple,
+.main-name {
+  color: var(--primary-color) !important;
+}
+
+.navbar,
+.sticky {
+  background-color: var(--bg-color) !important;
+}
+body,
+p, span, h1, h2, h3, h4, h5, h6,
+a, li, ul, ol, div, button {
+  color: var(--text-color) !important;
+}
