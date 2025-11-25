@@ -1,76 +1,82 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
-<br/>
+🌐 Portfolio – Hamza OUADII
 
-<center>
+Bienvenue sur mon portfolio personnel !
+Ce site regroupe mes projets, mes compétences, mon parcours ainsi que mon CV.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+🔗 Site en ligne : (ajouter le lien après déploiement)
+📄 CV intégré et téléchargeable
 
-</center>
+🚀 Technologies utilisées
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+React.js
 
-## TL;DR
+React Bootstrap
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
+JavaScript (ES6+)
 
-## Built With
+CSS3
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+Vercel (déploiement)
 
-This project was built using these technologies.
+✨ Fonctionnalités
 
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+🌗 Dark / Light Mode
 
-## Features
+📄 Aperçu du CV + téléchargement
 
-**📖 Multi-Page Layout**
+🧩 Section projets
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+📱 Site responsive
 
-**📱 Fully Responsive**
+🎨 Interface personnalisée
 
-## Getting Started
+📦 Installation
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+Cloner le projet :
 
-## 🛠 Installation and Setup Instructions
+git clone https://github.com/HamzaOuadii/Portfolio.git
 
-1. Installation: `npm install`
 
-2. In the project directory, you can run: `npm start`
+Installer les dépendances :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+npm install
 
-## Usage Instructions
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+Lancer le serveur :
 
-### Show your support
+npm start
 
-Give a ⭐ if you like this website!
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+Le site sera disponible sur :
+👉 http://localhost:3000
+
+📁 Structure du projet
+src/
+ ├── Assets/
+ ├── components/
+ ├── context/
+ ├── App.js
+ ├── index.js
+ └── styles/
+
+🛠️ Personnalisation
+
+Tout le contenu du site se trouve dans :
+
+src/components/ → pages et sections
+
+src/Assets/ → images, logos, CV
+
+src/context/ThemeContext.js → gestion du Dark/Light Mode
+
+src/index.css → styles globaux
+
+📬 Contact
+
+👤 Hamza OUADII
+📧 hamzaouadii05@gmail.com
+
+🔗 GitHub : https://github.com/HamzaOuadii
+
+🔗 LinkedIn : (ajoute ton lien)
